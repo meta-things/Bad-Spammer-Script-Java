@@ -9,4 +9,4 @@ This is an easy-to-use Java-based spambot. You can choose between:
 2. Navigate in your Console to the jarfile.
 3. Type in your Console "java -jar badspammer.jar".
 4. Select your mode.
-
+5. Go to your WhatsApp web Tab or Instagram Tab and select the Text input. 
